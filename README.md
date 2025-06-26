@@ -1,1 +1,1 @@
-Basic Junit project - with simple test cases
+Basic Junit project sample- with simple test cases
